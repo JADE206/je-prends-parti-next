@@ -1,0 +1,1 @@
+export default function Sondages() { return <h1>Sondages</h1>; }
